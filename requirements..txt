@@ -1,0 +1,5 @@
+# Conteúdo do arquivo requirements.txt
+
+pandas
+plotly
+openpyxl
